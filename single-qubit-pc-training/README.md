@@ -7,6 +7,7 @@ We define the cost function $C(\theta)$ as the expectation value of the Pauli Z 
 $$C(\theta) = \langle{(R_Y(\theta)\ket{\psi})}|Z|{(R_Y(\theta)\ket{\psi})}\rangle$$
 
 Then we take its derivative $C'(\theta)$:
+
 $$
 C'(\theta) = -2|\alpha|^2\sin \theta/2 \cos\theta/2 -\alpha^\ast\beta(\cos^2\theta/2-\sin^2\theta/2)+2|\beta|^2\sin\theta/2\cos\theta/2
 $$
