@@ -12,7 +12,9 @@ This project explores the application of a VQA on classifying between two specie
 
 ![cost and accuracy over Iris VQA iterations](iris-vqa/output.png)
 
+## Nonlinear Activations
 
+This project contains notes on a section of Supervised Machine Learning with Quantum Computers regarding implementing nonlinear activation functions on a quantum computer. See the `README.md` for details.
 
 
 ## Single Qubit Parametrized Circuit Training
@@ -26,5 +28,6 @@ A parametrized circuit is one that takes one or more parameters in its definitio
 qml
 ├── data-encoder
 ├── iris-vqa
+├── nonlinear-activations
 └── single-qubit-pc-training
 ```
