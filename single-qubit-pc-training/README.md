@@ -1,5 +1,7 @@
 # single-qubit-pc-training
 
+29 July 2025.
+
 This subproject demonstrates the use of gradient descent to train a single-qubit variational (parametrized) circuit into a circuit capable of turning any state $\ket{\psi}$ into $\ket{1}$.
 
 We define the cost function $C(\theta)$ as the expectation value of the Pauli Z operator applied to the state $\ket{\psi}$ after a rotation of $R_Y(\theta)$. That is,

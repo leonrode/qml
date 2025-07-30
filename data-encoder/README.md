@@ -1,5 +1,7 @@
 # data-encoder
 
+28 July 2025.
+
 This project explores methods of encoding classical data into a quantum circuit, otherwise known as embedding. The methods explored here are:
 
 1. Angle encoding
