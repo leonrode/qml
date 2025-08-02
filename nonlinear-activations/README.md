@@ -64,7 +64,7 @@ $$
 \varphi(v;\delta)=\frac{1}{1+e^{-\delta v}}
 $$
 
-is tricky because of the exponentiation and the division. Instead we look at approximation methods, which includes reducing the precision, and computing a look up table containing the input bitstrings and the output bitstrings. As precision increases the size grows exponentially, however. Using methods like Quine-McClusky, one can reduce the size of the look up table by solving essentially a "summarization" problem of finding the minimum sufficient condition for the output given inputs.
+is tricky because of the exponentiation and the division. Instead we look at approximation methods, which includes reducing the precision, and computing a look up table containing the input bitstrings and the output bitstrings. As precision increases the size grows exponentially, however. Using methods like Quine-McClusky, one can reduce the size of the look up table by solving essentially a "summarization" problem of finding the minimum sufficient condition for a set of outputs.
 
 
 ## References
