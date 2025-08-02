@@ -12,6 +12,10 @@ This project explores the application of a VQA on classifying between two specie
 
 ![cost and accuracy over Iris VQA iterations](iris-vqa/output.png)
 
+## Kernel Functions
+
+A small overview of kernel functions including the kernel trick used to apply learning algorithms into a higher dimensional space via the kernel function.
+
 ## Nonlinear Activations
 
 This project contains notes on a section of Supervised Machine Learning with Quantum Computers regarding implementing nonlinear activation functions on a quantum computer. See the `README.md` for details.
@@ -28,6 +32,7 @@ A parametrized circuit is one that takes one or more parameters in its definitio
 qml
 ├── data-encoder
 ├── iris-vqa
+├── kernel-functions
 ├── nonlinear-activations
 └── single-qubit-pc-training
 ```
